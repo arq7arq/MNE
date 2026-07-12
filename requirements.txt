@@ -1,0 +1,7 @@
+numpy
+pandas
+mne
+matplotlib
+ipykernel
+notebook
+hu-neuro-pipeline
