@@ -5,3 +5,4 @@ matplotlib
 ipykernel
 notebook
 hu-neuro-pipeline
+seaborn
